@@ -1,2 +1,12 @@
+streamlit
 psycopg2-binary
 python-dotenv
+groq
+chromadb
+sentence-transformers
+pandas
+plotly
+pypdf
+fastapi
+uvicorn
+requests
